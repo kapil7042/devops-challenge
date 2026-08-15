@@ -29,7 +29,7 @@ def home():
     return jsonify(
         message="Hello DevOps!",
         status="running",
-        version="1.0.0"
+        version="2.0.0"
     )
 
 
