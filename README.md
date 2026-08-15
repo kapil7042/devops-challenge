@@ -45,3 +45,4 @@ The Kubernetes cluster runs:
 
 ```bash
 minikube start --cpus=2 --memory=4096
+CI/CD test after runner fix
